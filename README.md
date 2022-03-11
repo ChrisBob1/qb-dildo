@@ -1,4 +1,7 @@
 # qb-dildo
+
+Im still working on this so please give me time but the basics are here.
+
 A dildo to use as a weapon.
 
 Drag and drop into your resource folder.

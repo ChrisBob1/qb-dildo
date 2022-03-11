@@ -8,7 +8,7 @@ A dildo to use as a weapon.
 **Manual**
 1. Place qb-dildo in you're server recources folder and add it to the server config.cfg
 
-2. Add this lines below to: qb-core\shared\items	
+2. Add this line below to: qb-core\shared\items	
 	
 		['weapon_dildo'] 		         = {['name'] = 'weapon_dildo', 		        	['label'] = 'dildo', 	                ['weight'] = 1000, 		['type'] = 'weapon',   	['ammotype'] = nil,						['image'] = 'weapon_dildo.png',           ['unique'] = true,      ['useable'] = false, 	['description'] = 'Dildo'},
 	

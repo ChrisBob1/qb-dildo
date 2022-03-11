@@ -16,3 +16,6 @@ A dildo to use as a weapon.
 3. Add the image (weapon_dildo.png) to qb-inventory/html/images
 
 4. Start/Restart you're server
+
+
+Original mod https://www.gta5-mods.com/weapons/dildo

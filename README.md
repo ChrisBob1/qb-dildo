@@ -14,6 +14,6 @@ Add these lines below to: qb-core\shared\items
 	['weapon_dildo'] 		         = {['name'] = 'weapon_dildo', 		        	['label'] = 'dildo', 	                ['weight'] = 1000, 		['type'] = 'weapon',   	['ammotype'] = nil,						['image'] = 'weapon_dildo.png',           ['unique'] = true,      ['useable'] = false, 	['description'] = 'Dildo'},
 	
 
-Add the images (weapon_dildo.png) to qb-inventory/html/images
+Add the image (weapon_dildo.png) to qb-inventory/html/images
 
 start/restart you're server
